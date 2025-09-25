@@ -1,0 +1,3 @@
+This is because, without using the var keyword, both variables a and b become part of the 
+global scope. In JavaScript, if you assign a value to a variable without declaring it 
+(i.e., without using var, let, or const), it automatically gets added to the global object.
