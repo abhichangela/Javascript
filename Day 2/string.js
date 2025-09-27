@@ -1,6 +1,6 @@
 console.log(1 + 1); //2
 console.log("1" + 1); //11
-console.log("-----------------");
+console.log("-----------------"); 
 
 console.log(1 + +"2"); //3
 console.log(1 + +"2" + 3); //6
