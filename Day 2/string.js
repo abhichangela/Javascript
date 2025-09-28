@@ -34,6 +34,6 @@ console.log("A" - "B" + 2); //NaN
 /* Explanation:
 
 --> As we have already seen when "A" - "B" result is NaN
---> Next, the expression is NaN + 2.
+--> Next, the expression is NaN + 2. 
 --> Adding any number to NaN results in NaN.
 --> So, NaN + 2 evaluates to NaN. */
