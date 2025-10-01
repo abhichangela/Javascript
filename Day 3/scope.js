@@ -4,7 +4,6 @@ function xyz() {
     return;
     var abc = function () { }
 }
-
 xyz();
 console.log(abc); //10
 
